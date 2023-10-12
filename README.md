@@ -1,0 +1,2 @@
+# projectsInclusiveInformatica
+all the projects
